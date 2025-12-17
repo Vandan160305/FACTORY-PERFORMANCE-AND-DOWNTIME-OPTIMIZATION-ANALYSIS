@@ -1,0 +1,58 @@
+Task overview
+What you'll learn
+How to use Tableau to visualise data
+What you'll do
+Analyse the client's data
+Create a dashboard using Tableau
+
+Here is the background information on your task
+Using a data unification algorithm, the tech team at our client, Daikibo, has converted all telemetry data collected from its 4 factories:
+
+Daikibo Factory Meiyo (Tokyo, Japan)
+Daikibo Factory Seiko (Osaka, Japan)
+Daikibo Berlin (Berlin, Germany)
+Daikibo Shenzhen (Shenzhen, China)
+Each location has 9 types of machines, sending a message every 10 mins. Daikibo has been collecting this data for one month (May 2021) and they've shared this data in the form of a single JSON file.
+
+The reason the client wanted to collect telemetry was to answer 2 questions:
+
+In which location did machines break the most?
+What are the machines that broke most often in that location?
+
+
+
+Task overview
+What you'll learn
+How to help a client draw conclusions from data
+What you'll do
+Add a column to classify data in an Excel sheet
+
+Here is the background information on your task
+After a worrisome number of internal complaints about gender inequality in terms of salary, Daikibo Industrials wants us to help them investigate.
+
+The Forensic Tech team has built an algorithm to quantify “level of gender pay equality” for most job roles within the company, in all company locations. Our Forensics lead thinks it would be a great idea for you to finish the job.
+
+Here is your task
+We have processed all data on employee compensation and generated an Excel file (Equality Table.xlsx, available in the Resources) containing 3 columns:
+
+Factory
+Job Role
+Equality Score (integer; ranging between -100 and +100; 0 is ideal)
+Here is your task:
+
+Create a 4th column (Equality class), classifying the equality score into 3 types:
+Fair (+-10)
+Unfair (<-10 AND >10)
+Highly Discriminative (<-20 AND >20)
+Examples:
+
+10 → Fair
+-9 → Unfair
+-30 → Highly Discriminative  
+
+
+
+Deloitte Australia Data Analytics Job Simulation on Forage - November 2025
+Completed a Deloitte job simulation involving data analysis and forensic technology 
+Created a data dashboard using Tableau 
+Used Excel to classify data and draw business conclusions
