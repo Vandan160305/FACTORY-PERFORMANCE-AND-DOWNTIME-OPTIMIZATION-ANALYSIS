@@ -113,3 +113,18 @@ I added a new column, **Equality Class**, using the following rules:
 * Supported data-driven decisions for **HR policy corrections**
 * Demonstrated forensic-style data classification and interpretation
 
+---
+
+## 👨‍💻 Author
+
+**Patel Vandan**
+- GitHub: https://github.com/Vandan160305
+- LinkedIn: https://www.linkedin.com/in/patel-vandan-6413822b4/
+- Email: vandan160305@gmail.com
+
+
+
+
+---
+  
+
